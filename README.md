@@ -4,7 +4,7 @@
 
 Demo Link - [Nike](https://nike-falak097.vercel.app/)
 
-(Nike.png)
+![Nike](https://github.com/FALAK097/Nike/raw/main/Nike.PNG)
 
 This project is a responsive landing page for Nike, showcasing various products, services, a special offer, and a subscribe section. It's built using React, Vite, and Tailwind CSS. The project demonstrates my knowledge of these technologies and showcases a clean and organized file/folder structure.
 
